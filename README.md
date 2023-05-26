@@ -1,2 +1,2 @@
  # _Java
- Here are all my java projects and learnings!
+Aqui estão todos os meus aprendizados de java!
